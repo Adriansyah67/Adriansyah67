@@ -2,6 +2,14 @@
 ## Hi there 👋, I'm Adriansyah Alfarisyi (some mouthful name I know)
 #### An Optimistic Lazybones 🌈
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Adriansyah67/count.svg?"  />
+</div>
+
+###
+
 <div align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjg3a2RoM3JxNmluMmx1Z29iMm5rMjBvYjlocDE0M3BuYnl4dDRkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tkq4V3XKPlTO0/giphy.gif"  />
 </div>
@@ -29,7 +37,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Adriansyah67&theme=panda&hide_border=false&locale=ja)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriansyah67&theme=panda&hide_border=false&include_all_commits=true&count_private=true&layout=compact&locale=ja)
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![tropyh](https://github-profile-trophy.vercel.app/?username=Adriansyah67&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4&title=-Stars,-Followers,-Issues)
 
 [![](https://visitcount.itsvg.in/api?id=Adriansyah67&icon=10&color=0)](https://visitcount.itsvg.in)
@@ -37,8 +45,6 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Adriansyah67/Adriansyah67/output/snake.svg" alt="Snake animation" />
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adriansyah67/Adriansyah67/output/pacman-contribution-graph-dark.svg">
@@ -72,13 +78,17 @@
 
 <img src="https://raw.githubusercontent.com/Adriansyah67/Adriansyah67/output/snake.svg" alt="Snake animation" />
 
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adriansyah67/Adriansyah67/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adriansyah67/Adriansyah67/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Adriansyah67/Adriansyah67/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Adriansyah67/count.svg?"  />
+</div>
 
 ###
  -->
