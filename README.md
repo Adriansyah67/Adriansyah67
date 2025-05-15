@@ -1,7 +1,7 @@
 ![Banner](img/github-header-image.png)
 ## Hi there 👋, I'm Adriansyah Alfarisyi (some mouthful name I know)
 #### An Optimistic Lazybones 🌈
-<img align="right" height="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjg3a2RoM3JxNmluMmx1Z29iMm5rMjBvYjlocDE0M3BuYnl4dDRkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tkq4V3XKPlTO0/giphy.gif"  />
+<img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjg3a2RoM3JxNmluMmx1Z29iMm5rMjBvYjlocDE0M3BuYnl4dDRkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tkq4V3XKPlTO0/giphy.gif"  />
 
 ###
 
