@@ -14,7 +14,8 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjg3a2RoM3JxNmluMmx1Z29iMm5rMjBvYjlocDE0M3BuYnl4dDRkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tkq4V3XKPlTO0/giphy.gif"  />
 </div>
 
-<p align="left">- 🔭 I’m currently working on re-arranging my life.<br>- 🌱 I’m currently [an Undergraduate College Student Semester 4](https://web.polines.ac.id/id/).</p>
+- 🔭 I’m currently working on re-arranging my life.
+- 🌱 I’m currently [an Undergraduate College Student Semester 4](https://web.polines.ac.id/id/).
 
 
 #### Skills 
