@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there 👋, I'm Adriansyah Alfarisyi (some mouthful name I know)
+#### An Optimistic Lazybones 🌈
+![StevenU](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjg3a2RoM3JxNmluMmx1Z29iMm5rMjBvYjlocDE0M3BuYnl4dDRkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tkq4V3XKPlTO0/giphy.gif)
 <!--
 **Adriansyah67/Adriansyah67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on re-arranging my life.
+- 🌱 I’m currently [an Undergraduate College Student Semester 4](https://web.polines.ac.id/id/).
