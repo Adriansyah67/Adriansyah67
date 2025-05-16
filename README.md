@@ -43,8 +43,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=Adriansyah67&icon=10&color=0)](https://visitcount.itsvg.in)
 
-###
-
 <img src="https://raw.githubusercontent.com/Adriansyah67/Adriansyah67/output/snake.svg" alt="Snake animation" />
 
 <picture>
