@@ -43,13 +43,15 @@
 
 [![](https://visitcount.itsvg.in/api?id=Adriansyah67&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/Adriansyah67/Adriansyah67/output/snake.svg" alt="Snake animation" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adriansyah67/Adriansyah67/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adriansyah67/Adriansyah67/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Adriansyah67/Adriansyah67/output/pacman-contribution-graph.svg">
 </picture>
+
+<img src="https://raw.githubusercontent.com/Adriansyah67/Adriansyah67/output/snake.svg" alt="Snake animation" />
+
+
 
 ###
 
