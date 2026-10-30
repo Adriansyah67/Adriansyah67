@@ -2,14 +2,6 @@
 ## Hi there 👋, I'm Adriansyah Alfarisyi (some mouthful name I know)
 #### An Optimistic Lazybones 🌈
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Adriansyah67/count.svg?"  />
-</div>
-
-###
-
 <div align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjg3a2RoM3JxNmluMmx1Z29iMm5rMjBvYjlocDE0M3BuYnl4dDRkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tkq4V3XKPlTO0/giphy.gif"  />
 </div>
@@ -33,8 +25,6 @@
 ![https://www.instagram.com/adriansyah.67/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 #### 📊 Stats
-[![Adriansyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adriansyah67&show_icons=true&theme=panda&locale=ja)](https://github.com/Adriansyah67/github-readme-stats)
-
 ![](https://nirzak-streak-stats.vercel.app/?user=Adriansyah67&theme=panda&hide_border=false&locale=ja)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriansyah67&theme=panda&hide_border=false&include_all_commits=true&count_private=true&layout=compact&locale=ja)
 
