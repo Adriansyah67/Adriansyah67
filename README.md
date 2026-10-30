@@ -39,9 +39,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriansyah67&theme=panda&hide_border=false&include_all_commits=true&count_private=true&layout=compact&locale=ja)
 
 ### 🏆 GitHub Trophies
-![tropyh](https://github-profile-trophy.vercel.app/?username=Adriansyah67&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4&title=-Stars,-Followers,-Issues)
+![trophy](https://github-profile-trophy.vercel.app/?username=Adriansyah67&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4&title=-Stars,-Followers,-Issues)
 
-[![](https://visitcount.itsvg.in/api?id=Adriansyah67&icon=10&color=0)](https://visitcount.itsvg.in)
+[![visits](https://visitcount.itsvg.in/api?id=Adriansyah67&icon=10&color=0)](https://visitcount.itsvg.in)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adriansyah67/Adriansyah67/output/pacman-contribution-graph-dark.svg">
